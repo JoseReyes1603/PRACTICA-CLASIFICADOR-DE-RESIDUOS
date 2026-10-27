@@ -1,4 +1,12 @@
 # PRACTICA-CLASIFICADOR-DE-RESIDUOS
+## Descripción
+En esta práctica se hizo una automatización en make para clasificar diferentes tipos de residuos mediante una imagen enviada a un chatbot en Telegram creado previamente, al recibir la imagen te da informacion sobre el tipo de residuo que detecto.
+
+## Material y herramientas utilizadas
+- *Plataforma de Automatización:* Make.com (Plan Pro, Make's AI Provider)
+- *Bot de Mensajería:* Telegram Bot API (creado mediante @BotFather)
+- *Modelo de IA:* Make AI Agent con capacidad de visión / procesamiento multimodal
+- *Módulos de Make:* Watch Updates, Download a File, Make AI Agent y Send a Text Message or a Reply
 ## Codigo
 [main.txt](Codigo/main.txt)
 ## imagenes 
