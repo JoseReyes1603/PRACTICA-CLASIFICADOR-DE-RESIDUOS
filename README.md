@@ -8,3 +8,4 @@
 [Ver video en YouTube](https://youtube.com/shorts/tSyUW-bcwog?feature=share)
 
 ## Resultados
+[Aqui va el PDF](https://github.com/JoseReyes1603/PRACTICA-CLASIFICADOR-DE-RESIDUOS/blob/main/Resultados/Reporte%20de%20Pr%C3%A1ctica%20-%20Clasificador%20de%20Residuos%20IA.pdf)
